@@ -9,7 +9,7 @@
             "name": "Python Debugger: Priklad 3",
             "type": "debugpy",
             "request": "launch",
-            "program": "01-intro/priklad3.py",
+            "program": "01-intro/priklad2.py",
             "console": "integratedTerminal",
             "args": ""
         }
